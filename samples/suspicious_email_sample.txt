@@ -1,0 +1,13 @@
+From: support-paypal@secure-update-alert.com
+Subject: Verify your PayPal account
+
+Dear Customer,
+
+We noticed unusual login activity on your account.
+Please verify your information immediately to avoid suspension.
+
+Verify account:
+http://paypal-verification-security.com
+
+Thank you,
+PayPal Support
